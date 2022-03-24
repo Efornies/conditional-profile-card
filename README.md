@@ -3,7 +3,7 @@
 Primero de todo ejecuta e instala node.js en tu ordenador:
 
 ```bash
-$ node -v
+$ npm run start
 ```
 
 ## ¿Qué es lo que he hecho?
